@@ -1,3 +1,4 @@
 # Converter
 Converter uygulaması, Metric-Imperial sistemler arasında; Sıcaklık, Ağırlık, Hacim, Alan, Hız, Uzunluk birimlerinin dönüştürülmesi ve hesaplanmasını sağlayan bir bilgisayar uygulamasıdır. Uygulamanın kodlama aşamasında NetBeans programı ve Java yazılım dili Swing kütüphanesi kullanılmıştır. Uygulama başlatıldığında kullanıcıyı 6 adet sekme butonu (Sıcaklık, Ağırlık, Hacim, Alan, Hız, Uzunluk) ve “Hakkında” butonu karşılar. Sekme butonlarına tıklandığında dönüşüm yapabilmek için veri girişi alanı, birim seçimi için combobox, işlemi başlatmak için “Dönüştür” butonu ve sonucu veren alanlar kullanıcıyı karşılar. “Hakkında” tuşuna basıldığında proje detayları gösterilir.
 [1811012066YücelenÜstünMüh.Bil.Uyg.Raporu.pdf](https://github.com/yucelenn/Converter/files/9942232/1811012066YucelenUstunMuh.Bil.Uyg.Raporu.pdf)
+![converter](https://user-images.githubusercontent.com/74682394/200082148-aa1eba8a-5092-4d56-8987-c07a54fab95f.png)
